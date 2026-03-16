@@ -1,0 +1,7 @@
+CREATE TABLE hr_finance (
+    employee_num NUMBER PRIMARY KEY,
+    monthly_income NUMBER(10, 2),
+    percent_salary_hike NUMBER(5, 2),
+    stock_option_level NUMBER(2),
+    training_times_last_year NUMBER(2)
+);
