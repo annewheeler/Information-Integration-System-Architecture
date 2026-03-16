@@ -5,3 +5,7 @@ CREATE TABLE hr_finance (
     stock_option_level NUMBER(2),
     training_times_last_year NUMBER(2)
 );
+
+GRANT SELECT ON hr_finance TO fdbo;
+
+SELECT * FROM hr_source.hr_finance;
