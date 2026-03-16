@@ -1,0 +1,16 @@
+ALTER SESSION SET "_ORACLE_SCRIPT" = true;
+
+-- Creăm utilizatorul pentru datele tale locale de HR
+CREATE USER hr_source IDENTIFIED BY hr_source
+DEFAULT TABLESPACE users
+QUOTA UNLIMITED ON USERS;
+
+GRANT connect, resource, create view TO hr_source;
+
+-- Creăm utilizatorul integrator (FDBO)
+CREATE USER fdbo IDENTIFIED BY fdbo
+DEFAULT TABLESPACE users
+QUOTA UNLIMITED ON USERS;
+
+GRANT connect, resource, create view, create database link TO fdbo;
+GRANT CREATE ANY DIRECTORY TO fdbo;
