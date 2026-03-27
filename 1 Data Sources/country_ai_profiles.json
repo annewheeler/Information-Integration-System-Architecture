@@ -1,0 +1,3182 @@
+[
+  {
+    "country": "USA",
+    "region": "North America",
+    "macro_indicators": {
+      "gdp_per_capita": 72596.06,
+      "internet_penetration": 92.1,
+      "digital_maturity_index": 87.14
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 19952,
+      "ai_researchers_per_million": 417.69
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Canada",
+    "region": "North America",
+    "macro_indicators": {
+      "gdp_per_capita": 55834.08,
+      "internet_penetration": 96.78,
+      "digital_maturity_index": 84.67
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 4233,
+      "ai_researchers_per_million": 393.62
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "region": "Europe",
+    "macro_indicators": {
+      "gdp_per_capita": 54777.23,
+      "internet_penetration": 91.98,
+      "digital_maturity_index": 85.01
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Strict",
+      "ai_patent_filings_2024": 6475,
+      "ai_researchers_per_million": 369.58
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "UK",
+    "region": "Europe",
+    "macro_indicators": {
+      "gdp_per_capita": 52827.64,
+      "internet_penetration": 91.41,
+      "digital_maturity_index": 83.85
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 5612,
+      "ai_researchers_per_million": 345.98
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "region": "Europe",
+    "macro_indicators": {
+      "gdp_per_capita": 47719.02,
+      "internet_penetration": 92.23,
+      "digital_maturity_index": 83.46
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 4722,
+      "ai_researchers_per_million": 353.71
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "region": "Europe",
+    "macro_indicators": {
+      "gdp_per_capita": 57719.04,
+      "internet_penetration": 93.17,
+      "digital_maturity_index": 91.44
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Strict",
+      "ai_patent_filings_2024": 2858,
+      "ai_researchers_per_million": 419.02
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Sweden",
+    "region": "Europe",
+    "macro_indicators": {
+      "gdp_per_capita": 62895.06,
+      "internet_penetration": 96.31,
+      "digital_maturity_index": 89.87
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Strict",
+      "ai_patent_filings_2024": 2648,
+      "ai_researchers_per_million": 459.49
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Spain",
+    "region": "Europe",
+    "macro_indicators": {
+      "gdp_per_capita": 42920.92,
+      "internet_penetration": 87.06,
+      "digital_maturity_index": 79.81
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 2266,
+      "ai_researchers_per_million": 289.09
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Italy",
+    "region": "Europe",
+    "macro_indicators": {
+      "gdp_per_capita": 39436.63,
+      "internet_penetration": 86.01,
+      "digital_maturity_index": 75.65
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 2234,
+      "ai_researchers_per_million": 296.83
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "region": "Europe",
+    "macro_indicators": {
+      "gdp_per_capita": 26651.07,
+      "internet_penetration": 88.3,
+      "digital_maturity_index": 70.84
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 1823,
+      "ai_researchers_per_million": 233.18
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "region": "Asia",
+    "macro_indicators": {
+      "gdp_per_capita": 7443.9,
+      "internet_penetration": 61.11,
+      "digital_maturity_index": 70.65
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Lenient",
+      "ai_patent_filings_2024": 2253,
+      "ai_researchers_per_million": 147.04
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "China",
+    "region": "Asia",
+    "macro_indicators": {
+      "gdp_per_capita": 12441.12,
+      "internet_penetration": 75.26,
+      "digital_maturity_index": 85.77
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Strict",
+      "ai_patent_filings_2024": 17037,
+      "ai_researchers_per_million": 336.29
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Japan",
+    "region": "Asia",
+    "macro_indicators": {
+      "gdp_per_capita": 42290.35,
+      "internet_penetration": 91.83,
+      "digital_maturity_index": 87.94
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Strict",
+      "ai_patent_filings_2024": 7081,
+      "ai_researchers_per_million": 368.11
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "South Korea",
+    "region": "Asia",
+    "macro_indicators": {
+      "gdp_per_capita": 42704.06,
+      "internet_penetration": 95.55,
+      "digital_maturity_index": 92.82
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Strict",
+      "ai_patent_filings_2024": 6422,
+      "ai_researchers_per_million": 413.2
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Singapore",
+    "region": "Asia",
+    "macro_indicators": {
+      "gdp_per_capita": 72930.1,
+      "internet_penetration": 93.78,
+      "digital_maturity_index": 87.28
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 2218,
+      "ai_researchers_per_million": 501.2
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "region": "Asia",
+    "macro_indicators": {
+      "gdp_per_capita": 11325.25,
+      "internet_penetration": 68.92,
+      "digital_maturity_index": 69.48
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Lenient",
+      "ai_patent_filings_2024": 1161,
+      "ai_researchers_per_million": 113.96
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "region": "Asia",
+    "macro_indicators": {
+      "gdp_per_capita": 8784.6,
+      "internet_penetration": 71.31,
+      "digital_maturity_index": 69.16
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Lenient",
+      "ai_patent_filings_2024": 980,
+      "ai_researchers_per_million": 91.39
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Thailand",
+    "region": "Asia",
+    "macro_indicators": {
+      "gdp_per_capita": 18377.1,
+      "internet_penetration": 81.59,
+      "digital_maturity_index": 70.46
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 1254,
+      "ai_researchers_per_million": 150.82
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Philippines",
+    "region": "Asia",
+    "macro_indicators": {
+      "gdp_per_capita": 7910.37,
+      "internet_penetration": 68.52,
+      "digital_maturity_index": 65.17
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Lenient",
+      "ai_patent_filings_2024": 703,
+      "ai_researchers_per_million": 77.25
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "region": "Asia",
+    "macro_indicators": {
+      "gdp_per_capita": 13305.24,
+      "internet_penetration": 85.36,
+      "digital_maturity_index": 70.42
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 1145,
+      "ai_researchers_per_million": 175.68
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "region": "South America",
+    "macro_indicators": {
+      "gdp_per_capita": 17758.78,
+      "internet_penetration": 85.49,
+      "digital_maturity_index": 71.6
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 1362,
+      "ai_researchers_per_million": 148.97
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Argentina",
+    "region": "South America",
+    "macro_indicators": {
+      "gdp_per_capita": 17729.07,
+      "internet_penetration": 81.42,
+      "digital_maturity_index": 70.64
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 985,
+      "ai_researchers_per_million": 158.6
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Chile",
+    "region": "South America",
+    "macro_indicators": {
+      "gdp_per_capita": 21081.03,
+      "internet_penetration": 86.98,
+      "digital_maturity_index": 76.66
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 874,
+      "ai_researchers_per_million": 140.6
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Colombia",
+    "region": "South America",
+    "macro_indicators": {
+      "gdp_per_capita": 12290.3,
+      "internet_penetration": 76.92,
+      "digital_maturity_index": 67.07
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Lenient",
+      "ai_patent_filings_2024": 665,
+      "ai_researchers_per_million": 116.14
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "South Africa",
+    "region": "Africa",
+    "macro_indicators": {
+      "gdp_per_capita": 14346.74,
+      "internet_penetration": 76.55,
+      "digital_maturity_index": 64.54
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 500,
+      "ai_researchers_per_million": 119.76
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "region": "Africa",
+    "macro_indicators": {
+      "gdp_per_capita": 6133.11,
+      "internet_penetration": 56.4,
+      "digital_maturity_index": 59.1
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Lenient",
+      "ai_patent_filings_2024": 240,
+      "ai_researchers_per_million": 55.23
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Kenya",
+    "region": "Africa",
+    "macro_indicators": {
+      "gdp_per_capita": 5618.81,
+      "internet_penetration": 63.74,
+      "digital_maturity_index": 63.65
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Lenient",
+      "ai_patent_filings_2024": 191,
+      "ai_researchers_per_million": 82.73
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Egypt",
+    "region": "Africa",
+    "macro_indicators": {
+      "gdp_per_capita": 8450.84,
+      "internet_penetration": 71.54,
+      "digital_maturity_index": 64.59
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 272,
+      "ai_researchers_per_million": 110.69
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "Australia",
+    "region": "Oceania",
+    "macro_indicators": {
+      "gdp_per_capita": 64279.23,
+      "internet_penetration": 94.5,
+      "digital_maturity_index": 88.05
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 3270,
+      "ai_researchers_per_million": 390.71
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "region": "Oceania",
+    "macro_indicators": {
+      "gdp_per_capita": 54649.97,
+      "internet_penetration": 94.46,
+      "digital_maturity_index": 87.92
+    },
+    "ai_ecosystem": {
+      "country_ai_policy": "Moderate",
+      "ai_patent_filings_2024": 1801,
+      "ai_researchers_per_million": 382.22
+    },
+    "industry_benchmarks": [
+      {
+        "industry": "Agriculture",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.25,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.19
+        }
+      },
+      {
+        "industry": "Consulting",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.52,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.46
+        }
+      },
+      {
+        "industry": "Education",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.23,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.13
+        }
+      },
+      {
+        "industry": "Finance",
+        "adoption": {
+          "avg_ai_adoption_rate": 38.35,
+          "avg_ai_maturity_score": 0.35
+        },
+        "risk": {
+          "avg_ai_failure_rate": 25.12
+        }
+      },
+      {
+        "industry": "Healthcare",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.57,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.44
+        }
+      },
+      {
+        "industry": "Logistics",
+        "adoption": {
+          "avg_ai_adoption_rate": 35.26,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.27
+        }
+      },
+      {
+        "industry": "Manufacturing",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.73,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Retail",
+        "adoption": {
+          "avg_ai_adoption_rate": 34.7,
+          "avg_ai_maturity_score": 0.33
+        },
+        "risk": {
+          "avg_ai_failure_rate": 26.38
+        }
+      },
+      {
+        "industry": "Technology",
+        "adoption": {
+          "avg_ai_adoption_rate": 42.47,
+          "avg_ai_maturity_score": 0.41
+        },
+        "risk": {
+          "avg_ai_failure_rate": 23.56
+        }
+      }
+    ]
+  }
+]
