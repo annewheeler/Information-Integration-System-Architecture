@@ -1,0 +1,27 @@
+CREATE DATABASE LINK PG_LINK
+CONNECT TO "postgres" IDENTIFIED BY "postgres"
+USING '(DESCRIPTION =
+  (ADDRESS = (PROTOCOL = TCP)(HOST = Anamaria)(PORT = 1521))
+  (CONNECT_DATA =
+    (SID = PG)
+  )
+  (HS = OK)
+)';
+
+
+SELECT *
+FROM "public"."companies_pg"@PG_LINK;
+
+CREATE OR REPLACE VIEW COMPANIES_PG_V AS
+SELECT *
+FROM "public"."companies_pg"@PG_LINK;
+
+CREATE OR REPLACE VIEW COMPANY_AI_ADOPTION_PG_V AS
+SELECT *
+FROM "public"."company_ai_adoption_pg"@PG_LINK;
+
+CREATE OR REPLACE VIEW COMPANY_AI_GOVERNANCE_PG_V AS
+SELECT *
+FROM "public"."company_ai_governance_pg"@PG_LINK;
+
+SELECT * FROM COMPANIES_PG_V WHERE ROWNUM <= 5;
