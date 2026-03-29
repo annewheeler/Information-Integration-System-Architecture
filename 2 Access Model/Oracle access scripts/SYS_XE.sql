@@ -1,0 +1,7 @@
+GRANT CREATE DATABASE LINK TO FDBO;
+
+
+SELECT *
+FROM dba_sys_privs
+WHERE grantee = 'FDBO'
+  AND privilege = 'CREATE DATABASE LINK';
