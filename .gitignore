@@ -1,0 +1,9 @@
+**/target/
+**/.idea/
+*.iml
+*.class
+.DS_Store
+**/.DS_Store
+
+J4DI/metastore_db/
+J4DI/derby.log
