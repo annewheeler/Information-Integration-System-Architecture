@@ -1,0 +1,10 @@
+org\datasource\jdbc\JDBCDataSourceConnector.class
+org\datasource\jdbc\views\customers\CustomerViewBuilder.class
+org\datasource\jdbc\views\customerdetails\CustomerDetailsViewBuilder.class
+org\datasource\security\BasicConfiguration.class
+org\datasource\jdbc\views\customerdetails\CustomerDetailsView.class
+org\datasource\RESTViewServiceJDBC.class
+org\datasource\jdbc\views\customers\CustomerView.class
+org\datasource\jdbc\views\customersadresses\CustomerAddressesView.class
+org\datasource\SpringBootSQLJDBCService.class
+org\datasource\jdbc\views\customersadresses\CustomerAddressesViewBuilder.class

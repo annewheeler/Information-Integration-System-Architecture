@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="659d3790-ccc4-4cf5-93fa-befa101584ad" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3DSj0ZJ4sZTe8iz4iWMvow6U6b5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SprinBootSparkSQLStarter.executor": "Coverage",
+    "Application.SpringBootDOCXLSService.executor": "Coverage",
+    "Application.SpringBootNoSQLMongoDBService.executor": "Coverage",
+    "Application.SpringBootSQLJDBCService.executor": "Coverage",
+    "Application.SpringBootSQLJPADataService.executor": "Run",
+    "Application.SpringBootWEBService.executor": "Run",
+    "Maven.DSA-SQL-JDBCService [compile].executor": "Run",
+    "Maven.DSA-WEB-RESTService [org.springframework.boot:spring-boot-maven-plugin:3.3.5:run].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Proiect prof",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\J4DI_Project\DSA-DOC-XLSService\src\main\resources\datasource" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpringBootSQLJPADataService">
+    <configuration name="SpringBootDOCXLSService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.datasource.SpringBootDOCXLSService" />
+      <module name="DSA-DOC-XLSService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.datasource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootNoSQLMongoDBService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.datasource.SpringBootNoSQLMongoDBService" />
+      <module name="DSA-NoSQL-MongoDBService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.datasource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootSQLJDBCService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.datasource.SpringBootSQLJDBCService" />
+      <module name="DSA-SQL-JDBCService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.datasource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootSQLJPADataService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.datasource.SpringBootSQLJPADataService" />
+      <module name="DSA-SQL-JPAService" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.datasource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootWEBService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.j4di.SpringBootWEBService" />
+      <module name="DSA-WEB-RESTService" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.j4di.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <shortenClasspath name="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpringBootSQLJPADataService" />
+      <item itemvalue="Application.SpringBootDOCXLSService" />
+      <item itemvalue="Application.SpringBootNoSQLMongoDBService" />
+      <item itemvalue="Application.SpringBootSQLJDBCService" />
+      <item itemvalue="Application.SpringBootWEBService" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootWEBService" />
+        <item itemvalue="Application.SpringBootDOCXLSService" />
+        <item itemvalue="Application.SpringBootSQLJPADataService" />
+        <item itemvalue="Application.SpringBootNoSQLMongoDBService" />
+        <item itemvalue="Application.SpringBootSQLJDBCService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="659d3790-ccc4-4cf5-93fa-befa101584ad" name="Changes" comment="" />
+      <created>1778282143314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778282143314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/J4DI_Project$SpringBootNoSQLMongoDBService.ic" NAME="SpringBootNoSQLMongoDBService Coverage Results" MODIFIED="1778587151218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.datasource.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/J4DI_Project$SpringBootSQLJDBCService.ic" NAME="SpringBootSQLJDBCService Coverage Results" MODIFIED="1778587148811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.datasource.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/J4DI_Project$SprinBootSparkSQLStarter.ic" NAME="SprinBootSparkSQLStarter Coverage Results" MODIFIED="1778587818638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.spark.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/J4DI_Project$SpringBootDOCXLSService.ic" NAME="SpringBootDOCXLSService Coverage Results" MODIFIED="1778587828547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.datasource.*</FILTER>
+    </SUITE>
+  </component>
+</project>
